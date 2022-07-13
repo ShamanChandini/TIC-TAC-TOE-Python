@@ -1,5 +1,7 @@
 # TIC-TAC-TOE-Python
 
+It's an easy beginner level Project. I've used Python language.
+
 ## Tic Tac Toe is one of the most played games and is the best time killer game.
 
 > The game is played by two individuals. 
